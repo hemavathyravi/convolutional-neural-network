@@ -1,0 +1,5 @@
+CNN stands for Convolutional Neural Network, which is a class of deep neural networks commonly applied to analyze visual data. CNNs have proven highly effective in tasks such as image and video recognition, image classification, object detection, and more. 
+They are particularly well-suited for tasks where the input data has a grid-like topology, such as images.
+Keras Tuner is an open-source hyperparameter tuning library for TensorFlow's Keras. 
+It helps you to optimize the hyperparameters of your deep learning models in order to improve their performance. 
+Hyperparameter tuning involves finding the best combination of hyperparameters (e.g., learning rate, dropout rate, number of layers) to enhance the performance of your neural network.
